@@ -1,0 +1,1 @@
+src_sources = ['main.c']
