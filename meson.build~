@@ -1,8 +1,0 @@
-project('MyP IRC chat', 'c',
-    version: '0.0.0',
-    meson_version:'>=1.0.1')
-executable('demo', 'src/main/main.c')
-inc = include_directories('include')
-subdir('include')
-subdir('src')
-subdir('test')
