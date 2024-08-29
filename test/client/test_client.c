@@ -1,1 +1,9 @@
-//Aqui estaran las pruebas unitarias para la clase main
+#include "unity.h"
+#include "client.h"
+
+void setUp(void){
+}
+
+void tearDown(void){
+
+}
