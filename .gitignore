@@ -2,3 +2,5 @@
 *~
 #*
 /build/
+subprojects/packagecache/
+subprojects/Unity-2.5.2/
