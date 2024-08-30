@@ -1,1 +1,1 @@
-src_sources = ['main.c']
+src_sources = ['server.c']

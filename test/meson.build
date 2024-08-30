@@ -1,6 +1,7 @@
 test_src = []
 test_src += files('client/test_client.c')
 test_src += files('server/test_server.c')
+test_src += files('model/test_connection.c')
 
 unity_proj = subproject('unity')
 unity_dep = unity_proj.get_variable('unity_dep')
